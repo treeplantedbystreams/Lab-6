@@ -96,7 +96,7 @@ var library = (function() {
                         month[11]="December";
 
                         console.log([date.getMonth()]).toString();
-            },
+             },
                                     
              
             
